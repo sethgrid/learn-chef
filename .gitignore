@@ -19,6 +19,9 @@ tramp
 
 # Emacs org-mode
 .org-id-locations
+
+# vagrant files
+.vagrant
 *_archive
 
 # SublimeText
